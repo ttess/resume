@@ -1,4 +1,4 @@
-resume
+Resume
 ======
 
-A resume for the public to see. 
+A resume for the public to see, and to be sent in emails for careers. 
